@@ -1,6 +1,8 @@
 # Pac-AI
 Created a neural network evolved using genetic algorithm to play the game of Pac-Man
 
+# Download the zip file and run python pacman.py to train.
+
 # Slides
 https://docs.google.com/presentation/d/1BzKfS02BqEoEVkfG0_SRdUYeMOTwYg3I2t5-0--q6sY/edit?usp=sharing
 
